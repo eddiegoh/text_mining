@@ -1,2 +1,2 @@
 # text_mining
-Doing text analysis on unstructured data 
+Doing text analysis on unstructured data from trip advisor website.
